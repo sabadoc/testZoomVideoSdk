@@ -1,8 +1,8 @@
 # testZoomVideoSdk
-##setup
+#setup
   Access to src/config/dev.ts
     config sdkSecret/key
-##launch
+#launch
 npm install
 npm start
 
