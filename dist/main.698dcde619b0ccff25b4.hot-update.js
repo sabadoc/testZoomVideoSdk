@@ -16,8 +16,8 @@ __webpack_require__.$Refresh$.setup(module.i);
 
 
 const devConfig = {
-  sdkKey: 'TOPdtj0HQSDEVF17BGwg5PH2WXi6cRM4Ezj9',
-  sdkSecret: 'UCPWNQ7N5QQ320VK1YURvJxWHB7j1tk3VbgG',
+  sdkKey: '',
+  sdkSecret: '',
   topic: '',
   name: `${Object(_utils_platform__WEBPACK_IMPORTED_MODULE_0__["getExploreName"])()}-${Math.floor(Math.random() * 1000)}`,
   password: 'aaaa',
